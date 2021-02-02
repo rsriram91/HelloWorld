@@ -6,3 +6,4 @@ line 2 for hook trigger
 creating a pull request branch
 Running octo pack command
 Executing octo push command
+executing octo create release command
